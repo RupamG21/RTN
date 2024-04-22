@@ -1,0 +1,1 @@
+This repository contains Octave/ MATLAB code to generate random telegraph noise using Poisson inter-arrival times. The algorithm can be integrated with semiconductor device technology computer-aided design (TCAD) tools like Sentaurus TCAD.
